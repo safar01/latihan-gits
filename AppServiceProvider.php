@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <p>Hello World 12345</p>
+    <p>HelloWorld 12345</p>
 </body>
 
 </html>

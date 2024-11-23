@@ -1,24 +1,14 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
 
-namespace App\Providers;
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 
-use Illuminate\Support\ServiceProvider;
+<body>
+    <p>Hello World</p>
+</body>
 
-class AppServiceProvider extends ServiceProvider
-{
-    /**
-     * Register any application services.
-     */
-    public function register(): void
-    {
-        //
-    }
-
-    /**
-     * Bootstrap any application services.
-     */
-    public function boot(): void
-    {
-        //
-    }
-}
+</html>
